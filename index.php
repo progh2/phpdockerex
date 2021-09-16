@@ -1,0 +1,4 @@
+TEST
+<?php
+phpinfo();
+?>
